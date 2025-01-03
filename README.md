@@ -23,5 +23,5 @@ A simple and user-friendly password manager built with Python's `tkinter` librar
 2. Open a terminal/command prompt in the project directory.
 3. Run the script:
    ```bash
-   python password_manager.py
+   python Pass_manager.py
 ![image](https://github.com/user-attachments/assets/92a152db-5283-4fc0-8f01-ad01d5341c0f)
